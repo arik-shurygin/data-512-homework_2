@@ -1,0 +1,50 @@
+Geography
+WORLD
+AFRICA
+NORTHERN AFRICA
+Western Sahara
+WESTERN AFRICA
+EASTERN AFRICA
+Mauritius
+Mayotte
+Reunion
+MIDDLE AFRICA
+Sao Tome and Principe
+SOUTHERN AFRICA
+eSwatini
+NORTHERN AMERICA
+Canada
+United States
+LATIN AMERICA AND THE CARIBBEAN
+CENTRAL AMERICA
+CARIBBEAN
+Curacao
+Guadeloupe
+Martinique
+Puerto Rico
+SOUTH AMERICA
+French Guiana
+ASIA
+WESTERN ASIA
+CENTRAL ASIA
+SOUTH ASIA
+SOUTHEAST ASIA
+Brunei
+Philippines
+EAST ASIA
+"China,  Hong Kong SAR"
+"China,  Macao SAR"
+EUROPE
+NORTHERN EUROPE
+Ireland
+United Kingdom
+WESTERN EUROPE
+EASTERN EUROPE
+SOUTHERN EUROPE
+OCEANIA
+Australia
+French Polynesia
+Guam
+Kiribati
+New Caledonia
+New Zealand
